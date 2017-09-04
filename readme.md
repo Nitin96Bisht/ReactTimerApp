@@ -4,4 +4,9 @@
 http://fast-brook-85315.herokuapp.com/#/?_k=o8yo01
 
 <h3>Getting Started</h3>
+
 This is a timer application developed using React.
+
+Here are the tools that I used:
+
+<h3>Build With</h3>
