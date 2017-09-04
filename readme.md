@@ -12,11 +12,11 @@ Here are the tools that I used:
 <h3>Build With</h3>
 
 <ul>
-<li>React - This is the Javascript framework used.</li>
+<li><b>React</b> - This is the Javascript framework used.</li>
 
-<li>Foundation - I used Foundation for styling application.</li>
+<li><b>Foundation</b> - I used Foundation for styling application.</li>
 
-<li>jQuery - I used jQuery in application.</li>
+<li><b>jQuery</b> - I used jQuery in application.</li>
 
-<li>Heroku - I also used Heroku in order to deploy the application.</li>
+<li><b>Heroku</b> - I also used Heroku in order to deploy the application.</li>
 </ul>
