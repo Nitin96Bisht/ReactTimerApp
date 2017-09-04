@@ -9,7 +9,7 @@ This is a timer application developed using React.
 
 Here are the tools that I used:
 
-<h3>Build With</h3>
+<h4>Build With</h4>
 
 <ul>
 <li><b>React</b> - This is the Javascript framework used.</li>
@@ -20,3 +20,14 @@ Here are the tools that I used:
 
 <li><b>Heroku</b> - I also used Heroku in order to deploy the application.</li>
 </ul>
+
+<h4>Requirements</h4>
+
+<ol>
+<li>1. Node.</li>
+
+<li>NPM.</li>
+
+<li>Any text editor, Atom prefered.<li>
+</ol>
+
