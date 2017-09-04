@@ -24,10 +24,10 @@ Here are the tools that I used:
 <h4>Requirements</h4>
 
 <ol>
-<li>1. Node.</li>
+<li>Node.</li>
 
 <li>NPM.</li>
 
-<li>Any text editor, Atom prefered.<li>
+<li>Any text editor, Atom prefered.</li>
 </ol>
 
