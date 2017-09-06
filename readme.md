@@ -31,3 +31,12 @@ Here are the tools that I used:
 <li>Any text editor, Atom prefered.</li>
 </ol>
 
+<h4>Installing</h4>
+
+<ol>
+<li>Download this project.</li>
+
+<li>Install node modules as shown below:</li>
+```npm install```
+</ol>
+
