@@ -21,7 +21,7 @@ Here are the tools that I used:
 <li><b>Heroku</b> - I also used Heroku in order to deploy the application.</li>
 </ul>
 
-<h4>Requirements</h4>
+<h3>Requirements</h3>
 
 <ol>
 <li>Node.</li>
@@ -31,7 +31,7 @@ Here are the tools that I used:
 <li>Any text editor, Atom prefered.</li>
 </ol>
 
-<h4>Installing</h4>
+<h3>Installing</h3>
 
 <ol>
 <li>Download this project.</li>
