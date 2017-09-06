@@ -37,6 +37,12 @@ Here are the tools that I used:
 <li>Download this project.</li>
 
 <li>Install node modules as shown below:</li>
+
+
 ```npm install```
+
+<li>Run project as shown below:</li>
+
+```node server.js```
 </ol>
 
