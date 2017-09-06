@@ -46,3 +46,9 @@ Here are the tools that I used:
 ```node server.js```
 </ol>
 
+<h3>Author</h3>
+<a href="https://github.com/Nitin96Bisht">Nitin Bisht</a>
+
+<h3>License</h3>
+This project is licensed under the MIT License.
+
