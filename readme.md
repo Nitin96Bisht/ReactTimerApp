@@ -21,7 +21,7 @@ Here are the tools that I used:
 <li><b>Heroku</b> - I also used Heroku in order to deploy the application.</li>
 </ul>
 
-<h3>Requirements</h3>
+## Requirements
 
 <ol>
 <li>Node.</li>
