@@ -3,8 +3,6 @@
 <h3>Live Demo</h3>
 http://fast-brook-85315.herokuapp.com/#/?_k=o8yo01
 
-This is [a link](http://example.com){:target="_blank"} that opens in a new window.
-
 <h3>Getting Started</h3>
 
 This is a timer application developed using React.
