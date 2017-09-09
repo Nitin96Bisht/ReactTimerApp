@@ -1,7 +1,7 @@
 <h1>React Timer Application</h1>
 
 <h3>Live Demo</h3>
-<a href="http://fast-brook-85315.herokuapp.com/#/?_k=o8yo01" target="_blank"></a>
+http://fast-brook-85315.herokuapp.com/#/?_k=o8yo01 
 
 <h3>Getting Started</h3>
 
