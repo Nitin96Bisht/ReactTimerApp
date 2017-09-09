@@ -24,14 +24,12 @@ Here are the tools that I used:
 ## Requirements
 
 <ol>
-<li>Node.</li>
-
-<li>NPM.</li>
+<li>Node & Npm.</li>
 
 <li>Any text editor, Atom prefered.</li>
 </ol>
 
-<h3>Installing</h3>
+## Installing
 
 <ol>
 <li>Download this project.</li>
@@ -46,9 +44,9 @@ Here are the tools that I used:
 ```node server.js```
 </ol>
 
-<h3>Author</h3>
+## Author
 <a href="https://github.com/Nitin96Bisht">Nitin Bisht</a>
 
-<h3>License</h3>
+## License 
 This project is licensed under the MIT License.
 
