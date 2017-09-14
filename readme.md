@@ -37,7 +37,7 @@ Here are the tools that I used:
 <li>Install node modules as shown below:</li>
 
 
-```npm install```
+```cd ReactTimerApp && npm install```
 
 <li>Run project as shown below:</li>
 
