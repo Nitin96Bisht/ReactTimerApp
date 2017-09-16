@@ -44,6 +44,10 @@ Here are the tools that I used:
 ```node server.js```
 </ol>
 
+## Testing
+
+```npm test```
+
 ## Author
 <a href="https://github.com/Nitin96Bisht">Nitin Bisht</a>
 
