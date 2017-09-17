@@ -32,14 +32,15 @@ Here are the tools that I used:
 ## Installing
 
 <ol>
-<li>Download this project or clone as shown</li>
+<li>Download this project or clone as shown:</li>
 
 ```git clone https://github.com/Nitin96Bisht/ReactTimerApp```
 
 <li>Install node modules as shown below:</li>
 
 
-```cd ReactTimerApp```
+```cd ReactTimerApp``` 
+<br>
 ``` npm install```
 
 <li>Run project as shown below:</li>
