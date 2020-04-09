@@ -34,7 +34,7 @@ Here are the tools that I used:
 <ol>
 <li>Download this project or clone as shown:</li>
 
-```git clone https://github.com/Nitin96Bisht/ReactTimerApp```
+```git clone git@github.com:Nitin96Bisht/ReactTimerApp.git```
 
 <li>Install node modules as shown below:</li>
 
